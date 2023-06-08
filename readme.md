@@ -1,6 +1,6 @@
 ﻿# GAMCNMDF
 ## Method Description
-GAMCNMDF is a computational model called Generative Adversarial Matrix Completion Network based on Multi-source Data Fusion to explore potential miRNA-disease associations.
+GAMCNMDF is a computational model for exploring potential miRNA-disease associations.
 ## Operating Environment
 PyCharm == 2021.1.3  
 Python == 3.6  
